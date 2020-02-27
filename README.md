@@ -1,2 +1,2 @@
 # DownloadWebImage
-download webImage
+download webImage via SDWebImage
